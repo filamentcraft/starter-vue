@@ -69,6 +69,7 @@ export default defineConfig({
         ignorePatterns: [
             '.github/**',
             'composer.json',
+            'public/**',
             'resources/js/components/ui/*',
             'resources/views/mail/*',
         ],
